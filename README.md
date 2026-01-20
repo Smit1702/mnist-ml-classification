@@ -22,9 +22,11 @@ MNIST handwritten digit dataset (28×28 grayscale images).
 - `notebooks/` : Experiments and visualization
 - `data/` : Dataset information
 
+## Results
+The project demonstrates progressive accuracy improvement by applying
+more advanced machine learning techniques.
 
 ## How to Run
 ```bash
 pip install -r requirements.txt
 python src/decision_tree.py
-
